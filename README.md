@@ -1,55 +1,66 @@
 
-<!-- ============== SHREYA SINGH | GITHUB PROFILE ============== -->
+<!-- ============== GITHUB PROFILE README ============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:6D28D9,100:06B6D4&text=Shreya%20Singh&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20COMMUNITY%20BUILDER%20%7C%20TECH%20ENTHUSIAST&descSize=14&descAlignY=60&animation=fadeIn" alt="Shreya Singh banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B1A,45:4C1D95,100:0891B2&text=Developer%20%7C%20Community%20Builder&fontSize=34&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" alt="Profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+Engineering+Student;Community+Manager+%40+Hacker%27s+Unity;Hackathon+Organizer+%7C+Tech+Enthusiast;Exploring+AI+%26+Cloud+Computing" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=67E8F9&center=true&vCenter=true&width=650&height=45&lines=Computer+Science+Engineering;Hackathons+%7C+Community+%7C+Technology;Building%2C+Learning%2C+Collaborating" alt="Animated introduction"/>
 
 <br/>
 
-<a href="mailto:shreyasinghishu2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/shreyasingh6294/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/shreyasinghishu2005-hub">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<a href="https://skillicons.dev">
+<img src="https://img.shields.io/badge/Tech-Stack-6D28D9?style=for-the-badge&logo=codefactor&logoColor=white" alt="Tech stack"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shreyasinghishu2005-hub&style=flat-square&color=7C3AED&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?style=flat-square&color=7C3AED&label=PROFILE+VISITORS" alt="Profile views"/>
 
 </div>
 
 ---
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+<h2 align="center">✦ COMMUNITY & HACKATHON MOMENTS ✦</h2>
+
+<div align="center">
+
+<img width="100%" src="Images/codewars-team.jpg" alt="CodeWars Hackathon team photo"/>
+
+<p><i>Teamwork, innovation and unforgettable hackathon experiences.</i></p>
+
+</div>
+
+---
+
+<h2 align="center">🚀 ABOUT & INTERESTS</h2>
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-Hey there! 👋 I'm **Shreya Singh**, a Computer Science Engineering student passionate about technology, community building, hackathons, and creating innovative solutions.
+### What drives innovation?
 
-- 🌐 **Community Manager** @ Hacker's Unity
-- 🏆 Organized **2× National & Global Hackathons**
-- 🎙️ Hosted **6+ podcasts** with industry experts
-- 🎯 Hosted **5+ events**, workshops, speaker sessions and tech events
-- 🥈 **Runner-up** in a Geo-Spatial Hackathon
-- 🚀 Participated in **50+ hackathons**
-- 💻 Exploring software development and emerging technologies
-- 🤝 Open to collaborations, new ideas and learning opportunities
+- Building technology projects and exploring new ideas
+- Participating in hackathons and collaborative challenges
+- Learning software development and emerging technologies
+- Connecting with developers and technology communities
+- Turning ideas into practical solutions
 
-### 🎯 What Drives Me
+### Areas of Interest
 
-Building meaningful projects, connecting with the tech community, and continuously learning through hands-on experiences.
+- Artificial Intelligence
+- Software Development
+- Cloud Computing
+- Web Development
+- Open Source & Hackathons
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
@@ -67,15 +78,15 @@ Building meaningful projects, connecting with the tech community, and continuous
 
 <h2 align="center">💻 TECH STACK & TOOLS</h2>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Programming</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Python, C and C++"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="Programming languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1F2937?style=for-the-badge" alt="Data Structures and Algorithms"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1F2937?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="DSA"/>
 
 </div>
 
@@ -83,7 +94,7 @@ Building meaningful projects, connecting with the tech community, and continuous
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,nextjs,dotnet&theme=dark" alt="Web development tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,nextjs,dotnet&theme=dark" alt="Web development"/>
 
 </div>
 
@@ -91,7 +102,7 @@ Building meaningful projects, connecting with the tech community, and continuous
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&theme=dark" alt="AWS, Google Cloud and Vercel"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&theme=dark" alt="Cloud tools"/>
 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
 
@@ -103,7 +114,7 @@ Building meaningful projects, connecting with the tech community, and continuous
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,ps,opencv&theme=dark" alt="Git, GitHub, Figma, Photoshop and OpenCV"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,ps,opencv&theme=dark" alt="Development tools"/>
 
 <br/><br/>
 
@@ -123,16 +134,17 @@ Building meaningful projects, connecting with the tech community, and continuous
 
 <div align="center">
 
-<a href="https://github.com/shreyasinghishu2005-hub">
-<img height="175" width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyasinghishu2005-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA" alt="GitHub statistics"/>
+<a href="https://github.com">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/shreyasinghishu2005-hub">
-<img height="175" width="49%" src="https://streak-stats.demolab.com?user=shreyasinghishu2005-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4" alt="GitHub streak"/>
+
+<a href="https://github.com">
+<img width="49%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4" alt="GitHub streak"/>
 </a>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasinghishu2005-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" alt="Top programming languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" alt="Top languages"/>
 
 </div>
 
@@ -142,7 +154,7 @@ Building meaningful projects, connecting with the tech community, and continuous
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shreyasinghishu2005-hub&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/>
 
 </div>
 
@@ -152,32 +164,18 @@ Building meaningful projects, connecting with the tech community, and continuous
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/shreyasinghishu2005-hub/shreyasinghishu2005-hub/output/snake.svg" alt="Contribution snake animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Contribution snake"/>
 
 </div>
 
 ---
 
-<h2 align="center">🤝 LET'S CONNECT & BUILD TOGETHER</h2>
-
 <div align="center">
 
-**Interested in technology, hackathons, and collaborative projects? Let's connect! 🚀**
+### ✦ Keep Building. Keep Learning. Keep Growing. ✦
 
-<br/>
+<i>Turning ideas into projects and collaboration into impact. 🚀</i>
 
-<a href="https://www.linkedin.com/in/shreyasingh6294/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:shreyasinghishu2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-*"Turning ideas into projects, connections into communities, and learning into growth."* ✨
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:6D28D9,100:0F172A" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0891B2,50:6D28D9,100:070B1A" alt="Footer banner"/>
 
 </div>
