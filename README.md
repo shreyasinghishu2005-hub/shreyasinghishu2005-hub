@@ -99,3 +99,11 @@ I'm passionate about technology, software development, and building strong tech 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:171027,50:6D28D9,100:A78BFA" alt="Purple footer"/>
 
 </div>
+
+<div align="center">
+  <img
+    src="./team-photo.png"
+    width="100%"
+    alt="My hackathon team"
+  />
+</div>
