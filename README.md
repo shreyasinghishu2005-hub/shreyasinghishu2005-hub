@@ -6,10 +6,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=2500&pause=700&color=657A99&center=true&vCenter=true&width=500&lines=Community+Manager;at+Hacker's+Unity" alt="Typing SVG"/>
 
-</div>
 
-<br/>
-
+  
 <img src="https://img.shields.io/badge/Community%20Manager-Hacker's%20Unity-657A99?style=flat-square" alt="Community Manager"/>
 <img src="https://img.shields.io/badge/Hackathons-50%2B-596579?style=flat-square" alt="50+ Hackathons"/>
 <img src="https://img.shields.io/badge/Podcasts-6%2B-82749A?style=flat-square" alt="6+ Podcasts"/>
