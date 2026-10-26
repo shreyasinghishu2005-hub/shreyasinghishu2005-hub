@@ -1,11 +1,12 @@
-
 <div align="center">
 
-<img src="Images/my-photo.png" alt="Shreya Singh" width="180" style="border-radius: 50%;"/>
+  <img src="./image.png" alt="Shreya Singh" width="200"/>
 
-# Hi, I'm Shreya Singh 👋
+  <h1>Hi, I'm Shreya Singh 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=2500&pause=700&color=657A99&center=true&vCenter=true&width=500&lines=Community+Manager;at+Hacker's+Unity;Tech+Enthusiast;Hackathon+Organizer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=2500&pause=700&color=657A99&center=true&vCenter=true&width=500&lines=Community+Manager;at+Hacker's+Unity" alt="Typing SVG"/>
+
+</div>
 
 <br/>
 
