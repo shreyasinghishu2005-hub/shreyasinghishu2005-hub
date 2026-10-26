@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <img src="./image.png" alt="Shreya Singh" width="200"/>
@@ -6,16 +7,16 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&duration=2500&pause=700&color=657A99&center=true&vCenter=true&width=500&lines=Community+Manager;at+Hacker's+Unity" alt="Typing SVG"/>
 
+  <br/><br/>
 
-  
-<img src="https://img.shields.io/badge/Community%20Manager-Hacker's%20Unity-657A99?style=flat-square" alt="Community Manager"/>
-<img src="https://img.shields.io/badge/Hackathons-50%2B-596579?style=flat-square" alt="50+ Hackathons"/>
-<img src="https://img.shields.io/badge/Podcasts-6%2B-82749A?style=flat-square" alt="6+ Podcasts"/>
-<img src="https://img.shields.io/badge/Events-5%2B-657A99?style=flat-square" alt="5+ Events"/>
+  <img src="https://img.shields.io/badge/Community%20Manager-Hacker's%20Unity-657A99?style=flat-square" alt="Community Manager"/>
+  <img src="https://img.shields.io/badge/Hackathons-50%2B-596579?style=flat-square" alt="50+ Hackathons"/>
+  <img src="https://img.shields.io/badge/Podcasts-6%2B-82749A?style=flat-square" alt="6+ Podcasts"/>
+  <img src="https://img.shields.io/badge/Events-5%2B-657A99?style=flat-square" alt="5+ Events"/>
 
-<br/><br/>
+  <br/><br/>
 
-*Building projects, connecting communities, and growing through technology.*
+  <em>Building projects, connecting communities, and growing through technology.</em>
 
 </div>
 
@@ -41,11 +42,13 @@ Hi! I'm **Shreya Singh**, a technology enthusiast passionate about software deve
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,angular,bootstrap,nextjs,dotnet,aws,gcp,vercel,git,github,figma,vscode&perline=9" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,angular,bootstrap,nextjs,dotnet,aws,gcp,vercel,git,github,figma,vscode&perline=9" alt="Languages and Tools"/>
+
+  <br/><br/>
+
+  <strong>Core Skills:</strong> Data Structures & Algorithms (DSA)
 
 </div>
-
-**Core Skills:** Data Structures & Algorithms (DSA)
 
 ---
 
@@ -53,17 +56,15 @@ Hi! I'm **Shreya Singh**, a technology enthusiast passionate about software deve
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shreyasingh6294/">
-  <img src="https://img.shields.io/badge/LinkedIn-657A99?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:shreyasinghishu2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-82749A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/shreyasinghishu2005-hub">
-  <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+  <a href="https://www.linkedin.com/in/shreyasingh6294/">
+    <img src="https://img.shields.io/badge/LinkedIn-657A99?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shreyasinghishu2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-82749A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/shreyasinghishu2005-hub">
+    <img src="https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 </div>
 
@@ -71,10 +72,12 @@ Hi! I'm **Shreya Singh**, a technology enthusiast passionate about software deve
 
 <div align="center">
 
-### ✨ Keep Learning. Keep Building. Keep Growing. ✨
+  <h3>✨ Keep Learning. Keep Building. Keep Growing. ✨</h3>
 
-*Thanks for visiting my profile!*
+  <em>Thanks for visiting my profile!</em>
 
-<img src="https://komarev.com/ghpvc/?username=shreyasinghishu2005-hub&label=Profile%20Views&color=657A99&style=flat-square" alt="Profile Views"/>
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=shreyasinghishu2005-hub&label=Profile%20Views&color=657A99&style=flat-square" alt="Profile Views"/>
 
 </div>
