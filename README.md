@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="./image.png" alt="Shreya Singh" width="200"/>
+<img src="./IMG_3618.JPG" alt="Shreya Singh" width="200"/>
 
   <h1>Hi, I'm Shreya Singh 👋</h1>
 
